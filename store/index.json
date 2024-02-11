@@ -848,3 +848,18 @@
     	"invert": true
   }
 }]
+
+  "name": "rolian", 
+  "icon": "https://image.jimcdn.com/app/cms/image/transf/dimension=620x10000:format=jpg/path/s5ac45ccef377e4c4/image/iab0be9213f7d8dd3/version/1706354496/image.jpg", 
+  "type": "app", 
+  "data": {
+    "type": "IFrame", 
+    "url": "rolian.jimdofree.com", 
+    "gallery": [
+      
+    
+     
+    ],
+    "desc": "rolian app for Windows 11 react ...", 
+    "feat": "1.1 Combat changes.\n1.2 Fletching table functionality.", 
+    "invert": true 
