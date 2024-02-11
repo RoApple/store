@@ -848,3 +848,18 @@
     	"invert": true
   }
 }]
+
+  "name": "rolian", // unique name (check if it has been used already in the file)
+  "icon": "https://image.jimcdn.com/app/cms/image/transf/dimension=620x10000:format=jpg/path/s5ac45ccef377e4c4/image/iab0be9213f7d8dd3/version/1706354496/image.jpg", // logo image, preferrably 1:1 and less than 128px of width
+  "type": "app", // game or app
+  "data": {
+    "type": "IFrame", // type currently supports IFrame only
+    "url": "rolian.jimdofree.com", // url of the app and make sure they accept Iframe
+    "gallery": [
+      // three or more images for gallery view in store app
+    
+     
+    ],
+    "desc": "rolian app for Windows 11 react ...", // description for store app
+    "feat": "1.1 Combat changes.\n1.2 Fletching table functionality.", // features for store app
+    "invert": true // when true it forces dark theme for game/app window, default is false.
